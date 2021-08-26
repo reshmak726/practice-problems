@@ -1,3 +1,7 @@
+
+// shuffle the elements everytime we run the code
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
