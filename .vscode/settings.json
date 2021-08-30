@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "valarray": "cpp",
-        "MAXDIFF.C": "cpp"
+        "MAXDIFF.C": "cpp",
+        "limits.h": "c"
     }
 }
