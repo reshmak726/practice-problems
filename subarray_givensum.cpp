@@ -1,3 +1,6 @@
+// Input:  A[] = {2, 6, 0, 9, 7, 3, 1, 4, 1, 10}, target = 15
+// Output: {6, 0, 9}
+
 #include<iostream>
 #include<unordered_map>
 using namespace std;
