@@ -1,3 +1,14 @@
+
+// Input:  A[] = { 1, 3, 5, 6, 8, 9, 15 }
+// gives arithmetic progression
+ 
+// Output:
+// 1 3 5
+// 1 5 9
+// 3 6 9
+// 1 8 15
+// 3 9 15
+
 #include<stdio.h>
 void triplet(int a[],int n){
     for(int j=1;j<n-1;j++){
