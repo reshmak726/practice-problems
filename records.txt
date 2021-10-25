@@ -1,0 +1,1 @@
+4.py                          Find a triplet having the maximum product in an array
