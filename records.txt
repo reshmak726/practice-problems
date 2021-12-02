@@ -10,3 +10,6 @@ PYTHON BASIC
 3.py   Python – Swap elements in String list
 4.py   Python | Ways to find length of list
 5.py   Maximum of two numbers in Python
+6.py   Minimum of two numbers in Python
+7.py   Check if element exists in list in Python
+8.py   Different ways to clear a list in Python

@@ -1,4 +1,4 @@
-num1 = input()
-num2= input()
-s=max(num1,num2)
-print("maximum number is",s)
+a = input()
+b= input()
+c=max(a,b)
+print("maximum number is",c)
