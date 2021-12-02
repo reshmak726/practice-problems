@@ -13,3 +13,4 @@ PYTHON BASIC
 6.py   Minimum of two numbers in Python
 7.py   Check if element exists in list in Python
 8.py   Different ways to clear a list in Python
+9.py   Python | Reversing a List
