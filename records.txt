@@ -7,3 +7,4 @@
 PYTHON BASIC 
 1.py   Python program to interchange first and last elements in a list
 2.py   Python program to swap two elements in a list
+3.py   Python – Swap elements in String list
