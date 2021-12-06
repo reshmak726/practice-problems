@@ -21,3 +21,6 @@ PYTHON BASIC
 14.py  Python | Multiply all numbers in the list
 15.py   Python program to find smallest number in a list
 16.py   Python program to find largest number in a list
+17.py   Python program to find second largest number in a list
+18.py   Python program to print even numbers in a list
+19.py   Python program to print odd numbers in a List
