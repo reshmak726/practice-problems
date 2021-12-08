@@ -24,3 +24,5 @@ PYTHON BASIC
 17.py   Python program to find second largest number in a list
 18.py   Python program to print even numbers in a list
 19.py   Python program to print odd numbers in a List
+20.py    Python program to print all even numbers in a range
+21.py    Python program to count Even and Odd numbers in a List

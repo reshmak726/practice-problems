@@ -13,7 +13,8 @@
 
 # l=[12,3,4,6,5,45,44]
 inputstring=input("enter the list elements: ")
-list=inputstring.split()
+list=inputstring.split(" ")
 for num in list:
+    num = int(num)
     if num % 2 == 0:
         print(num,end=" ")
