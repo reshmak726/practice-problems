@@ -29,3 +29,6 @@ PYTHON BASIC
 22.py   Python program to print positive numbers in a list
 23.py   Python program to print negative numbers in a list
 24.py   Python | Remove empty tuples from a list
+25.py  Python | Program to print duplicates from a list of integers
+26.py   Remove empty List from List
+27.py   Python – Convert List to List of dictionaries
