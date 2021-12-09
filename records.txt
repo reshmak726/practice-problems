@@ -26,3 +26,6 @@ PYTHON BASIC
 19.py   Python program to print odd numbers in a List
 20.py    Python program to print all even numbers in a range
 21.py    Python program to count Even and Odd numbers in a List
+22.py   Python program to print positive numbers in a list
+23.py   Python program to print negative numbers in a list
+24.py   Python | Remove empty tuples from a list
