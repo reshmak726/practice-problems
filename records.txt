@@ -5,6 +5,8 @@
 
 
 PYTHON BASIC 
+LISTS
+
 1.py   Python program to interchange first and last elements in a list
 2.py   Python program to swap two elements in a list
 3.py   Python – Swap elements in String list
@@ -33,3 +35,6 @@ PYTHON BASIC
 26.py   Remove empty List from List
 27.py   Python – Convert List to List of dictionaries
 28.py   Python – Convert Lists of List to Dictionary
+29.py   Python | Uncommon elements in Lists of List
+30.py   Python program to select Random value form list of lists
+31.py   Python – Reverse Row sort in Lists of List
