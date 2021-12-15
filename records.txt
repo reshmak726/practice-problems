@@ -38,3 +38,7 @@ LISTS
 29.py   Python | Uncommon elements in Lists of List
 30.py   Python program to select Random value form list of lists
 31.py   Python – Reverse Row sort in Lists of List
+32.py   Python Program to count unique values inside a list
+33.py   Python – List product excluding duplicates
+34.py  Python – Extract elements with Frequency greater than K
+35.py   Python – Test if List contains elements in Range
