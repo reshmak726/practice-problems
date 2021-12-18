@@ -49,3 +49,8 @@ LISTS
 
 STRINGSSSSSSSSSSSSSSSSSSSSS
 37.py   Python program to check whether the string is Symmetrical or Palindrome
+38.py    Reverse words in a given String in Python
+39.py    Ways to remove i’th character from string in Python
+40.py     Python – Avoid Spaces in string length
+41.py     Python program to print even length words in a string
+42.py     Python – Uppercase Half String
