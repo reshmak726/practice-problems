@@ -41,4 +41,11 @@ LISTS
 32.py   Python Program to count unique values inside a list
 33.py   Python – List product excluding duplicates
 34.py  Python – Extract elements with Frequency greater than K
-35.py   Python – Test if List contains elements in Range
+35.py   Python – Test if List contains elements in Range   [ LIST INPUT FROM USER CLEARED]
+36.py   Python program to check if the list contains three consecutive common numbers in Python [ARRAY INPUT FROM USER CLEARED]
+
+
+
+
+STRINGSSSSSSSSSSSSSSSSSSSSS
+37.py   Python program to check whether the string is Symmetrical or Palindrome
