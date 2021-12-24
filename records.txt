@@ -56,3 +56,9 @@ STRINGSSSSSSSSSSSSSSSSSSSSS
 42.py     Python – Uppercase Half String
 43.py     Python program to check if a string has at least one letter and one number
 44.py     Python | Program to accept the strings which contains all vowels
+45.py     Python | Count the Number of matching characters in a pair of string
+46.py     Python program to count number of vowels using sets in given string
+47.py     Python Program to remove all duplicates from a given string
+48.py     Python – Least Frequent Character in String
+49.py     Python – Odd Frequency Characters
+50.py     Python – Specific Characters Frequency in String List
