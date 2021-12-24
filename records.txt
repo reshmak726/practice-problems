@@ -65,3 +65,5 @@ STRINGSSSSSSSSSSSSSSSSSSSSS
 51.py     Python | Frequency of numbers in String
 52.py     Python | Program to check if a string contains any special character
 53.py     Find words which are greater than given length k
+54.py    Python program for removing i-th character from a string
+55.py    Python | Check if a given string is binary string or not
