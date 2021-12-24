@@ -62,3 +62,6 @@ STRINGSSSSSSSSSSSSSSSSSSSSS
 48.py     Python – Least Frequent Character in String
 49.py     Python – Odd Frequency Characters
 50.py     Python – Specific Characters Frequency in String List
+51.py     Python | Frequency of numbers in String
+52.py     Python | Program to check if a string contains any special character
+53.py     Find words which are greater than given length k
