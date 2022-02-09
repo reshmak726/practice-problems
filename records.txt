@@ -68,3 +68,6 @@ STRINGSSSSSSSSSSSSSSSSSSSSS
 54.py    Python program for removing i-th character from a string
 55.py    Python | Check if a given string is binary string or not
 56.py    Python program to find uncommon words from two Strings
+
+
+practice1.py   How to Create An Indian Kirana Store Calculator
