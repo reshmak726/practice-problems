@@ -71,3 +71,7 @@ STRINGSSSSSSSSSSSSSSSSSSSSS
 
 
 practice1.py   How to Create An Indian Kirana Store Calculator
+practice2.py   factorial and trailing zeroes
+practice3.py    currency converter
+practice4.py    water drinking reminder
+practice5.py    password generator
