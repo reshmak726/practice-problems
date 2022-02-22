@@ -75,3 +75,4 @@ practice2.py   factorial and trailing zeroes
 practice3.py    currency converter
 practice4.py    water drinking reminder
 practice5.py    password generator
+practice6.py    how to secure password
